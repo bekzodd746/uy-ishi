@@ -1,0 +1,17 @@
+.box div{
+    justify-content: space-around;
+    display: flex;
+}
+h1{
+ margin-top: auto;   
+
+}
+img{
+    width: 609px;
+    height: 466px;
+}
+button{
+    background-color: blue;
+    width: 197px;
+    height: 49px;
+}
